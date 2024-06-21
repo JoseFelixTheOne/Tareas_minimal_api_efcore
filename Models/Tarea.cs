@@ -28,5 +28,5 @@ public enum Prioridad
 {
     Baja,
     Media,
-    Alata
+    Alta
 }
